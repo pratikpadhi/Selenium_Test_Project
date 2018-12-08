@@ -1,0 +1,3 @@
+2018-11-30 08:59:34,837 [main] INFO Package_1.TestNg_5 - This is test_)_1
+2018-11-30 08:59:34,839 [main] WARN Package_1.TestNg_5 - This is test_)_2
+2018-11-30 08:59:34,839 [main] ERROR Package_1.TestNg_5 - This is test_)_3
